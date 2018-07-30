@@ -1,0 +1,38 @@
+
+ 		.container{
+ 			width:700px;
+ 			height:800px;
+ 			background-color:#17a2b8;
+ 			padding:50px;
+ 		}
+
+ 		#deleg{
+ 			font-family: algerian;
+ 			font-size: 60px;
+ 			color:white;
+ 			text-shadow: 5px 2px 4px grey;
+ 			margin-left:50px;
+ 		}
+ 		.lab{
+ 			color: white;
+ 			font-size: 25px;
+ 		}
+ 		
+ 		.name{
+ 			width: 400px;
+ 			border: 1px solid black;
+ 			margin: 20px 40px 10px 0px;
+ 			padding: 3px;
+ 		}
+
+ 		.sub{
+ 			width: 50px;
+ 			margin: 10px 50px 10px 50px;
+ 		}
+	
+		.succ{
+			background: black;
+			color:white;
+			padding:3px;
+			margin-bottom:10px;
+		}
